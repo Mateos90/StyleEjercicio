@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>    
+    <head>
+        <link rel="stylesheet" href="../CSS/StyleEjercicio.css">
+    </head> 
+<meta charset="utf-8"> 
+<body>
+<header>
+    <img src="../IMG/ilustacion.jpg">
+</header>
+<nav>
+    <ul>
+        <a href="#">ARTE</a>
+        <a href="#">COLECCIONES</a>
+        <a href="#">CONÓCENOS</a>     
+    </ul>
+</nav>  
+<article>
+    <p>
+        UNA EXPERIENCIA TOTALMENTE NUEVA EN EL ARTE
+        <BR><BR>
+            Una Tradicion milenaria nos ha acompañado a través de todo
+            <BR>                              
+            este tiempo. Aprende más ...
+    </p>
+</article>
+
+
+
+
+
+
+
+</body>
+</html>
+
+******* CSS *********
+
+img{
+    width: 135px;
+    float: left;
+}
+
+
+nav{
+    width: 100%;
+    height: 50px;
+    text-align: left;
+    justify-content: center;
+
+}
+
+nav ul{
+    text-align:center;
+    padding: 35px;
+    margin-right: 650px;
+
+}
+
+nav ul a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+article {
+    background-color: green;
+    width: 100%;
+    height: 100%;
+    padding: 100px;  
+    margin-top: 100px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
